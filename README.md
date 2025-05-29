@@ -28,9 +28,4 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 - **CSS3** – Styling & layout
 - **JavaScript (ES6)** – Game logic & interactivity
 
-## 📁 Folder Structure
-📦 rock-paper-scissors-game
-┣ 📜 index.html
-┣ 📜 style.css
-┣ 📜 script.js
-┗ 📜 README.md
+
